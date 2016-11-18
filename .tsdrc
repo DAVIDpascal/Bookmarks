@@ -1,0 +1,5 @@
+{
+  "proxy" : "http://xxxxxxxxxxxxxxxxx:8086/",
+  "https-proxy" : "http://xxxxxxxxxxxxxxxxxxx:8086/",
+  "strictSSL": false
+}

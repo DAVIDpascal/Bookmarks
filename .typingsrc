@@ -1,0 +1,3 @@
+proxy=http://xxxxxxxxxxxxxxxxxxxx:8086
+https-proxy=http://xxxxxxxxxxxxxxxxxxx:8086
+rejectUnauthorized=false

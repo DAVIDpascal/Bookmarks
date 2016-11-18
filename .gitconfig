@@ -1,0 +1,4 @@
+[http]
+	proxy = http://xxxxxxxxxxxxxxxxxxxxxxx:8086/
+[https]
+	proxy = http://xxxxxxxxxxxxxxxxxxxxxxx:8086/
